@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ScreenShot
+  - Global Resource
+  - Village Voyage.exe
+  - Street Surfer Saga.exe
+  - SnowSlider.exe
+  - House Of Balloons.exe
+  - FruitSamurai.exe
+  - Football Cup!.exe
+  - Enter If You Dare.exe
+  - Candy Planet.exe
+  - Bug Hunter.exe
+  - Aqua Life.exe
+  - AlienSpace.exe
+  - AlienRunner.exe
+  - alineRunner11.app
+  - Next
+  - Prev
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PoseDetection
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

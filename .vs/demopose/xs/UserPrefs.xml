@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0C1176F7-73E9-01BC-6505-F8A6C073D044}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Event.cs">
+    <Files>
+      <File FileName="Assets/Script/moveLeftWrist.cs" Line="26" Column="40" />
+      <File FileName="Assets/Script/Resolution1.cs" />
+      <File FileName="Assets/Script/Event.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityMainThreadDispatcher.cs" />
+      <File FileName="Assets/Script/ExeRunner.cs" />
+      <File FileName="Assets/Script/OpenGame.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demopose" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Script" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="853829e9-ff17-4a6d-b2ab-95f45e461254" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
